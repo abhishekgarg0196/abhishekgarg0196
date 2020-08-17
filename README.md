@@ -15,9 +15,15 @@ Programmer (noun): A machine that turns coffee into code.
 ```
 ## I work on .. 💻
 
-Java, DSA, Python, Javascript, 
-HTML CSS, JQUERY, AJAX, Bootstrap, Docker, LINUX, GIT, SQL, AWS services
-IDE: Eclipse, Net beans, Android Studio, Pycharm, Visual studio code
+ 	Programming languages: Java, Python
+ 	Web technologies: HTML CSS, JavaScript, Bootstrap, jQuery, Ajax 
+ 	Platform: Linux, windows
+ 	Server-side: Nodejs, ExpressJs, PassportJs, restful web service, MVC
+ 	Database: Mysql, mongodb
+ 	Cloud: AWS, AWS EC2, AWS lambda, S3 bucket
+ 	Testing tools: API testing (postman)
+ 	Devops and other tools: Docker, Git, Maven, Gradle
+
 
 - 💬 Ask me about anything. If I didn't know maybe I will learn something new!
 - ⚡ Fun fact: I talk a lot. I am a chill person with great humor and can give you life advice as well.
